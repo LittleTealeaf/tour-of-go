@@ -79,7 +79,6 @@ func nil_underlying_values() {
 
 	// Calling a value on a nil interface type will throw an error
 
-
 	// also, interface {} applies to ALL values
 }
 
